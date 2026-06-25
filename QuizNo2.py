@@ -1,4 +1,4 @@
-#The developer badge
+# Challange No. 01: The developer badge
 print ("          Developer Badge")
 print("***********************************")
 print("*                                 *")
@@ -9,3 +9,16 @@ print("*      Name:    John Doe          *")
 print("*      ID:      123456789         *")
 print("*      Email: john.doe@example.com*")
 print("***********************************")
+#Challange no 02: The Styled  Shopping Receipt
+print ()
+print("===================================================")
+print("                MY CODING SHOP")
+print("===================================================")
+print("Item               Qty                   Price")
+print("---------------------------------------------------")
+print("Python Book         1                    $29.99")
+print("Python Coffee Mug   2                    $9.99")
+print("Python Stickers     5                    $4.99")
+print("---------------------------------------------------")
+print("Total:              8                    $69.94")
+print("===================================================")
